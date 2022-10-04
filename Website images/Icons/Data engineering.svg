@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.11 104.79"><defs><style>.cls-1,.cls-2{fill:#f76808;}.cls-2,.cls-3{stroke:#f76808;stroke-miterlimit:10;stroke-width:3.98px;}.cls-3{fill:none;}</style></defs><g id="Layer_1-2"><path class="cls-1" d="M48.6,10.83v26.46c7.76-.02,14.34,5.94,14.96,13.8,.65,8.25-5.52,15.46-13.77,16.11-.4,.03-.8,.03-1.19,.03v28.51l6.04,.03,.05-10.59c4.18-.79,8.23-2.42,11.89-4.86l7.46,7.54,8.87-8.78-7.46-7.54c2.48-3.64,4.15-7.67,4.99-11.84l10.6,.06,.07-12.49-10.59-.06c-.79-4.18-2.42-8.22-4.86-11.89l7.54-7.46-8.78-8.88-7.54,7.46c-3.64-2.48-7.67-4.16-11.84-4.99l.06-10.6-6.49-.03Z"/><line class="cls-3" x1="41.88" y1="95.73" x2="41.88" y2="10.83"/><line class="cls-3" x1="42.35" y1="62.11" x2="10.19" y2="62.11"/><circle class="cls-2" cx="6.78" cy="62.07" r="4.76"/><line class="cls-3" x1="42.35" y1="42.03" x2="10.19" y2="42.03"/><circle class="cls-2" cx="6.78" cy="41.99" r="4.76"/><polyline class="cls-3" points="42.56 83.04 21.82 83.04 10.63 94.23"/><circle class="cls-2" cx="7.11" cy="98.04" r="4.76"/><polyline class="cls-3" points="42.2 21.75 21.45 21.75 10.26 10.56"/><circle class="cls-2" cx="6.75" cy="6.75" r="4.76"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2_00000076593110288207383990000000882407862153292456_"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 91.1 104.8"
+	 style="enable-background:new 0 0 91.1 104.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F76808;}
+	.st1{fill:none;stroke:#F76808;stroke-width:3.2154;stroke-miterlimit:10;}
+	.st2{fill:#F76808;stroke:#F76808;stroke-width:3.2154;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1-2">
+	<path class="st0" d="M48.2,18.8v21.4c6.3,0,11.6,4.8,12.1,11.1c0.5,6.7-4.5,12.5-11.1,13c-0.3,0-0.6,0-1,0v23l4.9,0l0-8.6
+		c3.4-0.6,6.6-2,9.6-3.9l6,6.1l7.2-7.1l-6-6.1c2-2.9,3.4-6.2,4-9.6l8.6,0l0.1-10.1l-8.6,0c-0.6-3.4-2-6.6-3.9-9.6l6.1-6l-7.1-7.2
+		l-6.1,6c-2.9-2-6.2-3.4-9.6-4l0-8.6L48.2,18.8L48.2,18.8z"/>
+	<line class="st1" x1="42.8" y1="87.4" x2="42.8" y2="18.8"/>
+	<line class="st1" x1="43.2" y1="60.2" x2="17.2" y2="60.2"/>
+	<circle class="st2" cx="14.4" cy="60.2" r="3.8"/>
+	<line class="st1" x1="43.2" y1="44" x2="17.2" y2="44"/>
+	<circle class="st2" cx="14.4" cy="44" r="3.8"/>
+	<polyline class="st1" points="43.3,77.2 26.6,77.2 17.5,86.2 	"/>
+	<circle class="st2" cx="14.7" cy="89.3" r="3.8"/>
+	<polyline class="st1" points="43,27.6 26.3,27.6 17.2,18.6 	"/>
+	<circle class="st2" cx="14.4" cy="15.5" r="3.8"/>
+</g>
+</svg>
